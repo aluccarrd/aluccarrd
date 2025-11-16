@@ -1,6 +1,6 @@
 <p align="center">
 hyde was here
 <p align="center">
-<img width="2033" height="866" alt="Image" src="https://github.com/user-attachments/assets/2e39f46c-bdf5-4616-a4c1-b5aa6aa01af3" />
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/2e39f46c-bdf5-4616-a4c1-b5aa6aa01af3" />
 <p align="center">
 [placeholder]
